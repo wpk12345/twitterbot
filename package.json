@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "twitterbot tutorial",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpk12345/twitterbot.git"
+  },
+  "author": "Bill King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpk12345/twitterbot/issues"
+  },
+  "homepage": "https://github.com/wpk12345/twitterbot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
