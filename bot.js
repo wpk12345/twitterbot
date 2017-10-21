@@ -19,6 +19,8 @@ var T = new Twit(config);
 //  }
 // }
 console.log("hello");
+console.log("hello");
+
 
 var params = {
   q: 'Boston Celtics',
